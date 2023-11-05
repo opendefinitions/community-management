@@ -1,2 +1,3 @@
-# community-management
-Canonical definition for community management, with a sample "community manager" role description
+___DEPRECATED REPOSITORY___
+
+The new location for the _community management definition_ is https://github.com/theopensourceway/community-management-definition
